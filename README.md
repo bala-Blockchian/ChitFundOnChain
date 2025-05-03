@@ -93,6 +93,15 @@ Disburses Ether to the lowest bidder and equally divides the discount amount amo
 
 ---
 
+### Test Case Simulation Output
+
+Below is the output from the test case that simulated the complete flow of the Chit Fund contract:
+
+![Test Output 1](images/test_output_1.png)
+![Test Output 2](images/test_output_2.png)
+
+---
+
 ## Utility Functions
 
 | Function                 | Description                                                 |
